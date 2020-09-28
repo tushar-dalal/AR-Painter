@@ -15,4 +15,5 @@ To run this code, first run Colour picker.
 9. Quit this section using <q>
 
 In  case working with Colour picker doesnt suit you (recording and then pasting in the source code of Painter.py), youcan use the quoted peice of code in Painter.
-To use it, simply un-quote the program part and after the second step, press <s>. This will save a new pen configuration to your program, but will not add a new colour, that part needs to be added to the program as of yet. (Let me know if anyone wants to contribute) 
+To use it, simply un-quote the program part and after the second step, press <s>. 
+This will save a new pen configuration to your program, but will not add a new colour, that part needs to be added to the program as of yet. (Let me know if anyone wants to contribute) 
